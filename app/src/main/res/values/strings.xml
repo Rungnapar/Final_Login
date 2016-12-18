@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final_Login</string>
+    <string name="listuser">Food List</string>
+    <string name="listadduser">Add Food</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
